@@ -1,6 +1,6 @@
 # 🛡️ Portfolio de cybersécurité 
 
-Bienvenue sur mon portfolio ! Je suis Yassine, étudiant en 4e année informatique avec une spécialisation en cybersécurité à l'UIR, et j'entamerai prochainement une maîtrise à l'Université de Sherbrooke au Québec.
+Bienvenue sur mon portfolio ! Je suis Yassine, étudiant en 4e année informatique avec une spécialisation en cybersécurité à l'UIR.
 
 Vous pouvez trouver ici tous les travaux, projets ou n'importe quel accomplissement que je puisse réaliser ayant un rapport à la cybersécurité.
  J'aimerais aussi préciser que pour la réalisation de ce README j'ai en partie utilisé l'intelligence Artificielle Gemini pour m'aider à gagner du temps, et j'utilise cette approche meme en cybersecurité, et mon idéologie est la suivante : Les intelligences artificielles sont des outils facilitant la vie et qui améliore le rendement et qui doivent etres utilises comme tels, c'est l'absence total de touche humaine qui cause des problémes, mais sous supervision les IAs sont la meilleur assistance qu'une personne puisse recevoir.
